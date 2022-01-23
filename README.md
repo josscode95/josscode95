@@ -101,7 +101,7 @@ const josscode95 = {
 ## Como contactarme:
 
 <span>
-  <a href="https://www.linkedin.com/in/josspm26/" target="_blank"><img width="8%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
+  <a href="https://www.linkedin.com/in/josspm26/" target="_blank"><img width="8%" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
   <a href="mailto:josmar.pm19@gmail.com" target="_blank"><img width="8%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 </span>
 
