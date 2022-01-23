@@ -89,10 +89,10 @@ const josscode95 = {
         ]
     },
   Proyects: [
-      {Pokemon-PI: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      {Pokemon-PI: ['React', 'Styled Components', 'Redux', 'NodeJs', 'Express', 'Sequelize']}
     ],
   FutureTecnologies: ['PHP', 'Python', 'Java', 'C#'],
-  Aspirations: ['IOT', 'MachineLearning', 'Big Data']
+  Aspirations: ['IoT', 'MachineLearning', 'Big Data']
 }
 ```
 
