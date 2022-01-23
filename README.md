@@ -89,7 +89,7 @@ const josscode95 = {
         ]
     },
   Proyects: [
-      {BankAppMe: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      {Pokemon-PI: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
     ],
   FutureTecnologies: ['PHP', 'Python', 'Java', 'C#'],
   Aspirations: ['IOT', 'MachineLearning', 'Big Data']
