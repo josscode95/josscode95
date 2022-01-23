@@ -101,7 +101,7 @@ const josscode95 = {
 ## Como contactarme:
 
 <span>
-  <a href="https://www.linkedin.com/in/josspm26/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
+  <a href="https://www.linkedin.com/in/josspm26/" target="_blank"><img width="8%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
 </span>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=josscode95&show_icons=true&locale=en&layout=compact" alt="josepardomorales" /></p>
