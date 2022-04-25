@@ -86,6 +86,9 @@ const josscode95 = {
         ],
       FrontEnd: [
           {JavaScript: ['React', 'Redux']}
+        ],
+      Movil: [
+          {Javascript: ['React Native']}
         ]
     },
   Proyects: [
