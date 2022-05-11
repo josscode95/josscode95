@@ -85,7 +85,10 @@ const josscode95 = {
           {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'postgreSQL']}
         ],
       FrontEnd: [
-          {JavaScript: { React: Redux, Vue: Vuex }}
+          {JavaScript: { 
+            React: ['Redux', 'Context API'], 
+            Vue: ['Vuex', 'OptionsAPI', 'Composition API']
+           }}
         ],
       Movil: [
           {Javascript: ['React Native']}
