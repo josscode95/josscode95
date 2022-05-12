@@ -82,7 +82,11 @@
 const josscode95 = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'postgreSQL']}
+          {JavaScript: { Nodejs: ['Express'] }
+          {Bases de Datos: {
+            PostgreSQL: ['Sequelize'],
+            MongoDB: ['Mongoose']
+          }}
         ],
       FrontEnd: [
           {JavaScript: { 
